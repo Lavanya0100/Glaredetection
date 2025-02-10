@@ -1,3 +1,11 @@
+# ✅ Automates glare removal across a dataset.
+# ✅ Batch processing with PyTorch’s DataLoader.
+# ✅ Enhances contrast & removes bright glare spots.
+# ✅ Saves and displays cleaned images.
+
+# Dataset: https://github.com/maesfahani/glaredetection 
+# (200 images)
+
 import os
 import cv2
 import torch
