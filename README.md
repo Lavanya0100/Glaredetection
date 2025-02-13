@@ -4,3 +4,6 @@
 ## Attempt 2 - CLAHE Glare Removal
 ![alt text](<CLAHE Glare Removal/Result.jpg>)
 ![alt text](<CLAHE Glare Removal/Result1.jpg>)
+
+## Attempt 3 - Histogram Equalization
+![alt text](<Histogram Equalization/Result.png>)

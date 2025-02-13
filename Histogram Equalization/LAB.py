@@ -1,3 +1,7 @@
+# LAB color space ensures that color remains unchanged while adjusting brightness.
+# Histogram equalization redistributes pixel intensities, enhancing dark areas.
+# Adding brightness shifts lighting towards a morning effect without overexposing.
+
 import cv2
 import numpy as np
 import os
