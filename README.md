@@ -9,4 +9,4 @@
 ![alt text](<Histogram Equalization/Result.png>)
 
 **##Attempt 4 -addition of artificial glare**
-![alt text](<C:\Users\lavgu\OneDrive\Pictures\Screenshots\Screenshot 2025-02-28 222103.png>)
+![alt text](<https://github.com/Lavanya0100/Glaredetection/blob/main/addition%20of%20artificial%20glare/Screenshot%202025-02-28%20220548.png>)
