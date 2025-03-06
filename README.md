@@ -14,11 +14,8 @@
 ## Attempt 5 - CycleGAN (1k images + 50 epochs)
 ![alt text](<CycleGAN/Result.png>)
 
-
-
 ## Attempt 6 - introducing glare 
 ![alt text](<https://github.com/Lavanya0100/Glaredetection/blob/main/addition%20of%20artificial%20glare/WhatsApp%20Image%202025-03-05%20at%2013.25.05_23e713fb.jpg>)
-
 
 ## Attempt 7 - UNET
 ![alt text](<https://github.com/Lavanya0100/Glaredetection/blob/main/addition%20of%20artificial%20glare/WhatsApp%20Image%202025-03-05%20at%2014.57.36_52d3576a.jpg>)
@@ -29,3 +26,5 @@
 
 ![alt text](<https://github.com/Lavanya0100/Glaredetection/blob/main/addition%20of%20artificial%20glare/WhatsApp%20Image%202025-03-05%20at%2023.16.10_96e39077.jpg>)
 
+## Attempt 9 - AutoEncoders (1k images + 50 epochs)
+![alt text](<Auto Encoder/Result.png>)
