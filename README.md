@@ -28,3 +28,6 @@
 
 ## Attempt 9 - AutoEncoders (1k images + 50 epochs)
 ![alt text](<Auto Encoder/Result.png>)
+
+## Attempt 10 - Pix2Pix (4k images + 20 epochs)
+![alt text](<Pix2Pix/Result.png>)
