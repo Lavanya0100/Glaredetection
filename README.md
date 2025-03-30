@@ -32,13 +32,15 @@
 ## Attempt 10 - Pix2Pix (4k images + 20 epochs)
 ![alt text](<Pix2Pix/Result.png>)
 
-## Attempt 11 - Pix2Pix (4k images + 20 epochs)
-![alt text](<Pix2Pix/Result.png>)
-
-## Attempt 12 - INtroduction to artificial glare overlpaping
-![alt text](<Pix2Pix/Result.png>)
 
 
-## Attempt 13 - Artificial glare glare addition 
+## Attempt 11 - INtroduction to artificial glare overlpaping
 ![alt text](<Pix2Pix/Result.png>)
+
+
+## Attempt 12 - Artificial glare glare addition 
+![alt text](<Pix2Pix/Result.png>)
+
+## Attempt 13 -intro of glare removal
+![alt text](<Pglareaddition/WhatsApp Image 2025-03-30 at 11.52.14_fdb3266b.jpg>)
 
