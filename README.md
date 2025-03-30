@@ -42,5 +42,5 @@
 ![alt text](<Pix2Pix/Result.png>)
 
 ## Attempt 13 -intro of glare removal
-![alt text](<Pglareaddition/WhatsApp Image 2025-03-30 at 11.52.14_fdb3266b.jpg>)
+![alt text](<glareaddition/WhatsApp Image 2025-03-30 at 11.52.14_fdb3266b.jpg>)
 
