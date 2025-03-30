@@ -31,3 +31,14 @@
 
 ## Attempt 10 - Pix2Pix (4k images + 20 epochs)
 ![alt text](<Pix2Pix/Result.png>)
+
+## Attempt 11 - Pix2Pix (4k images + 20 epochs)
+![alt text](<Pix2Pix/Result.png>)
+
+## Attempt 12 - INtroduction to artificial glare overlpaping
+![alt text](<Pix2Pix/Result.png>)
+
+
+## Attempt 13 - Artificial glare glare addition 
+![alt text](<Pix2Pix/Result.png>)
+
