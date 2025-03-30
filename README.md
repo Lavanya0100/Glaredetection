@@ -35,7 +35,7 @@
 
 
 ## Attempt 11 - INtroduction to artificial glare overlpaping
-![alt text](<Pix2Pix/Result.png>)
+![alt text](<glareaddition/image.png>)
 
 
 ## Attempt 12 - Artificial glare glare addition 
