@@ -39,7 +39,7 @@
 
 
 ## Attempt 12 - Artificial glare glare addition 
-![alt text](<Pix2Pix/Result.png>)
+![alt text](<glareaddition/WhatsApp Image 2025-03-30 at 11.52.14_50680cc3.jpg>)
 
 ## Attempt 13 -intro of glare removal
 ![alt text](<glareaddition/WhatsApp Image 2025-03-30 at 11.52.14_fdb3266b.jpg>)
