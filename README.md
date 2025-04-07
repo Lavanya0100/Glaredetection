@@ -31,3 +31,6 @@
 
 ## Attempt 10 - Pix2Pix (4k images + 20 epochs)
 ![alt text](<Pix2Pix/Result.png>)
+
+## Attempt 11 - Pix2Pix Final (4k images + 14k steps)
+![alt text](<Pix2Pix Final/Result.png>)
