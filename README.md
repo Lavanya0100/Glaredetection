@@ -32,5 +32,16 @@
 ## Attempt 10 - Pix2Pix (4k images + 20 epochs)
 ![alt text](<Pix2Pix/Result.png>)
 
-## Attempt 11 - Pix2Pix Final (4k images + 14k steps)
+## Attempt 11 - INtroduction to artificial glare overlpaping
+![alt text](<glareaddition/image.png>)
+
+
+## Attempt 12 - Artificial glare glare addition 
+![alt text](<glareaddition/WhatsApp Image 2025-03-30 at 11.52.14_50680cc3.jpg>)
+
+## Attempt 13 -intro of glare removal
+![alt text](<glareaddition/WhatsApp Image 2025-03-30 at 11.52.14_fdb3266b.jpg>)
+![alt text](<glareaddition/WhatsApp Image 2025-03-30 at 11.52.14_2269fe6a.jpg>)
+
+## Attempt 14 - Pix2Pix Final (4k images + 14k steps)
 ![alt text](<Pix2Pix Final/Result.png>)
